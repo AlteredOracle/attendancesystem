@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/view_attendance_list.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/view_attendance_list.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/viewstudent.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/viewstudent.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/addfaculty.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/addfaculty.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/view_faculty_list.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/view_faculty_list.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/add_student_attendance.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/add_student_attendance.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/add_attandance.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/add_attandance.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/listview_main.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/listview_main.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/__listview_main.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/__listview_main.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/view_student_list.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/view_student_list.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/test_layout.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/test_layout.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/view_attendance_list_per_student.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/view_attendance_list_per_student.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/addstudent.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/addstudent.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/test_main.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/test_main.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/layout/login.xml"
+    }
+]

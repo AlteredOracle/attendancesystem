@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/roundedtextview.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/drawable-hdpi/roundedtextview.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/roundedbutton.xml",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/drawable-hdpi/roundedbutton.xml"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/clg.jpg",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/drawable-hdpi/clg.jpg"
+    }
+]

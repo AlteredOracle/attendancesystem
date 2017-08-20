@@ -1,0 +1,7 @@
+#Sun Aug 20 18:27:25 IST 2017
+base.0=/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eafab37af4cbbf19e578e2363fe78d57aa5db125
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8740da212ae73c6151ec70d22f2043c305086e17/classes.dex
+base.1=/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8740da212ae73c6151ec70d22f2043c305086e17
+file.0=/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eafab37af4cbbf19e578e2363fe78d57aa5db125/classes.dex

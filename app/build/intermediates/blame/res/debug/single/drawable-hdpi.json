@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/drawable-hdpi/calendar_icon.png",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/drawable-hdpi/calendar_icon.png"
+    },
+    {
+        "merged": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/sarathpathari/Downloads/AndroidAttendanceSystem/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
